@@ -1,34 +1,34 @@
 {
   "eventName": "birdhaus",
-  "addressLine1": "80 n beacon st #3",
-  "addressLine2": "allston, ma 02134",
-  "date": "saturday, may 9",
+  "addressLine1": "398 bremen st #1",
+  "addressLine2": "boston, ma 02128",
+  "date": "saturday, october 10",
   "time": "6pm",
   "rsvpUrl": "https://partiful.com/e/tZ6DaCrEgus3JizfFWTq",
-  "rsvpDeadline": "please rsvp no later than\ntuesday, may 5",
+  "rsvpDeadline": "please rsvp no later than\ntuesday, october 6",
   "note": "",
   "instagramHandle": "dine.birdhaus",
   "groups": [
     {
       "title": "to taste",
       "items": [
-        { "name": "fried pickles", "detail": "buttermilk battered with ranch" },
-        { "name": "soft pretzels + beer cheese", "detail": "homemade pretzels with warm sharp cheddar beer cheese" },
-        { "name": "mixed snacks", "detail": "rosemary brown butter almonds, mixed nuts, and pretzels" }
+        { "name": "dip trio", "detail": "hummus, whipped feta + roasted garlic white bean dip" },
+        { "name": "greek zucchini fritters", "detail": "dill + goat cheese aioli" },
+        { "name": "spanakopita", "detail": "spinach, feta + herbs in flaky phyllo" }
       ]
     },
     {
       "title": "to eat",
       "items": [
-        { "name": "chopped cheese sliders", "detail": "seasoned beef and onions with melted american on brioche" },
-        { "name": "nashville hot chicken", "detail": "crispy brined thighs brushed with spicy chili oil" },
-        { "name": "cast iron mac & cheese", "detail": "sharp cheddar and gruyere with a broiled breadcrumb crust" }
+        { "name": "chicken souvlaki", "detail": "lemon, garlic + oregano" },
+        { "name": "kafta", "detail": "spiced ground beef with parsley, garlic + onion" },
+        { "name": "greek salad", "detail": "tomato, cucumber, red onion, feta + oregano vinaigrette" }
       ]
     },
     {
       "title": "to drink",
       "items": [
-        { "name": "ranch water", "detail": "tequila, lime, and topo chico" }
+        { "name": "lord byron", "detail": "gin, mastiha, lemon + cucumber" }
       ]
     }
   ]
